@@ -86,7 +86,7 @@ body {
 /* Lead with big image */
 
 .wrapper {
-  background-image: url('../images/creation1.jpg');
+  background-image: url('../images/background.jpg');
   height: 650px;
   background-size: cover;
   padding-top: 150px;
