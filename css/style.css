@@ -1,5 +1,12 @@
  /* General classes for page */
 
+
+
+
+
+
+
+
 .boite_white
 {
   
@@ -14,7 +21,7 @@ padding:60px 60px 60px 60px;
 }
 
 .carousel {
-  height: 450px;
+  height: 100%;
 
 }
 
